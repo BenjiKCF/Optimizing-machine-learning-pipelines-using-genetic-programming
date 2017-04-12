@@ -9,4 +9,4 @@ Best pipeline: GradientBoostingClassifier(GaussianNB(FeatureAgglomeration(Gradie
 (None, 0.94935064935064939) with the same accuracy scale.
 
 # Acknowledgement: 
-Thanks to @rhiever and @weixuanfu2016, I successfully implemented TPOT into this script.
+Thanks to @rhiever and @weixuanfu2016, I successfully implemented TPOT into choosing classifier.
